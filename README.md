@@ -18,3 +18,5 @@ El programa recibe un numero entero positivo "n" por el usuario para hacer una s
 
 
 Los casos prueba que pueden causar un overflow son, para las funciones sumaIterativa y sumaRecursiva: Entrada de un numero entero negativo, entrada de un numero muy grande que sobrepase el unsigned long, unsigned long long. 
+
+Para la sumaDirecta, se podria tener un overflow si se ingresa un valor que supere el datatype asignado. (unsigned long long, unsigned long). 
