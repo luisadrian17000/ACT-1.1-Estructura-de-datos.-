@@ -3,7 +3,9 @@
 Realiza una aplicación en C++ que calculé la sumatora de 1 hasta n y llame a tres funciones:
 
 sumaIterativa: Calcule la sumatoria de 1 hasta n con un metodo iterativo.
+
 sumaRecursiva: Calcule la sumatoria de 1 hasta n con un metodo recursivo.
+
 sumaDirecta: Calcule la sumatoria de 1 hasta n con un metodo matemático directo.
 
 El programa recibe un numero entero positivo "n" por el usuario para hacer una suma consecutiva desde 1 hasta n de 3 formas: iterativa, recursiva y directa, y despues despliega el resultado de cada una. 
